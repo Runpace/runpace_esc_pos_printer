@@ -78,7 +78,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: b4f588c1303c99f6d3a0ad665bab1138b246f14d
+      resolved-ref: "11b27175e51e172347037f02a6f8c340b4a5552d"
       url: "https://github.com/Runpace/runpace_esc_pos_utils"
     source: git
     version: "1.1.0"
@@ -124,14 +124,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.15.4"
-  image:
-    dependency: transitive
-    description:
-      name: image
-      sha256: "8e9d133755c3e84c73288363e6343157c383a0c6c56fc51afcc5d4d7180306d6"
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.3.0"
   image_v3:
     dependency: "direct main"
     description:
